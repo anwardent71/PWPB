@@ -1,0 +1,15 @@
+{
+    "name": "starbhak/belajar-composer",
+    "description": "Untuk kebutuhan belajar Composer",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Muhammad Anwar",
+            "email": "warrezi14@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.5"
+    }
+}
